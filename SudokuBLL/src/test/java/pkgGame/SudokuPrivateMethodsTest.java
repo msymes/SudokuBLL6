@@ -11,7 +11,7 @@ import org.junit.Test;
 
 public class SudokuPrivateMethodsTest {
 
-	private void PrintStars() {
+	/*private void PrintStars() {
 		for (int i = 0; i < 50; i++)
 			System.out.print("*");
 		System.out.println();
@@ -123,5 +123,5 @@ public class SudokuPrivateMethodsTest {
 			fail("InvocationTargetException, Invalid size");
 		}
 
-	}
+	}*/
 }
